@@ -11,6 +11,8 @@ wheels/
 
 #folders
 data/
+notebooks/catboost_info/
+
 
 #data
 sample_submit.parquet
